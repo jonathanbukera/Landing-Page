@@ -151,6 +151,9 @@ li{
 }
 
 .left1, .right1{
+    flex:auto;
+    display: flex;
+    align-items: center;
     justify-content: center;
 }
 .left1{
